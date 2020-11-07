@@ -1,2 +1,2 @@
 # myblog
-recreation my wordpress blog using HTML
+Recreating my wordpress blog using HTML
